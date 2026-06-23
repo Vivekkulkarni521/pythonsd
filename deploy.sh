@@ -6,4 +6,4 @@ docker build -t student-app:v1 .
 
 echo "Running application..."
 
-docker run --rm -it student-app:v1
+docker run --rm student-app:v1
